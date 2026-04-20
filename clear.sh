@@ -1,5 +1,5 @@
 #!/bin/bash
 
-rm output/output/*
+rm output/files/*
 rm output/stderr/*
 rm output/stdout/*
