@@ -17,7 +17,9 @@ Execute PYTHIA interactively: `./RunPythia $ID`
 
 ### Check job status
 For all jobs: `qstat`
+
 For particular job: `qstat $JOBID`
+
 For job array: `qstat -t $JOBID[]`
 
 ### Cleanup
