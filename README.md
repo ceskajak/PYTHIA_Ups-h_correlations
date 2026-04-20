@@ -25,5 +25,7 @@ To remove all files from submitted jobs (contents of all subdirectories of the `
 
 ## Useful Resources
 PYTHIA documentation regarding particles: [Particle Properties](https://pythia.org/latest-manual/ParticleProperties.html)
+
 PYTHIA documentation regarding Onia processes: [Onia Processes](https://pythia.org/latest-manual/OniaProcesses.html)
+
 PDG MC numbering scheme: [Monte Carlo Particle Numbering Scheme](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-monte-carlo-numbering.pdf)
