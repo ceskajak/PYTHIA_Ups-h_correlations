@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 if [[ -n "$1" ]]; then
     FILES="$1"
